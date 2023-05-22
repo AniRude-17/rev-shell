@@ -1,2 +1,2 @@
 # rev-shell
-haha
+reverse shell one-liner for InterIIT
